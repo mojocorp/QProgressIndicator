@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-  Author: Jared P. Sutton <jared.sutton@gmail.com>
+  Author: Jared P. Sutton <jpsutton@gmail.com>
   License: LGPL
   Note: I've licensed this code as LGPL because it was a complete translation of the code found here...
     https://github.com/mojocorp/QProgressIndicator
