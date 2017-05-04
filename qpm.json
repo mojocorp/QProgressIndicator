@@ -1,0 +1,22 @@
+{
+  "name": "com.github.mojocorp.QProgressIndicator",
+  "description": "Qt Spinning progress indicator",
+  "author": {
+    "name": "mojocorp",
+    "email": "morganleborgne@gmail.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "git@github.com:mojocorp/QProgressIndicator.git"
+  },
+  "version": {
+    "label": "1.0.2",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "qprogressindicator.pri",
+  "webpage": "https://github.com/mojocorp/QProgressIndicator"
+}
